@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=
+comment1.target=Space()
+comment2.params=page
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ move()
+numComments=4
