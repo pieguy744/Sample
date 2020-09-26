@@ -1,5 +1,5 @@
 PROJECT TITLE: Coin return
-PURPOSE OF PROJECT: Demonstrate the fundamentals 
+PURPOSE OF PROJECT: Demonstrate the fundamentals of python
 VERSION or DATE: 06/2020
 /HOW TO START THIS PROJECT: Run CoinLab.py
 AUTHORS: Michael Coe
