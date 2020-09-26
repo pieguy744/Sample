@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment2.params=fileName
+comment2.target=void\ getFileImage(java.lang.String)
+comment3.params=
+comment3.target=void\ go()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=page
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=event
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=event
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=event
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=void\ makeMaze()
+numComments=10

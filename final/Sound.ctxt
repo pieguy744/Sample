@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sound
+comment1.params=fileName
+comment1.target=Sound(java.lang.String)
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=
+comment4.target=void\ loop()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=a\ b\ c\ d\ e
+comment1.target=Key(int,\ int,\ int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=boolean\ collide()
+numComments=4
