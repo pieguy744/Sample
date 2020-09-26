@@ -1,6 +1,6 @@
 PROJECT TITLE: Tic Tac Toe
 PURPOSE OF PROJECT: Demonstrate the fundamentals of ruby
-VERSION or DATE: 06/2020
+VERSION or DATE: 06/2017
 HOW TO START THIS PROJECT: Run titac.rb
 AUTHORS: Michael Coe
 USER INSTRUCTIONS:
