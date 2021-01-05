@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=a\ b\ c\ d
+comment1.target=Cube(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment3.params=c
+comment3.target=void\ setColor(java.awt.Color)
+comment4.params=page
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=int\ getxSize()
+comment8.params=
+comment8.target=int\ getySize()
+numComments=9
